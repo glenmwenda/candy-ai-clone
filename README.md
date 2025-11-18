@@ -5,10 +5,9 @@
 </p>
 
 ---
-
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/4851adec-2114-46c0-b548-1b5675fa023d"
+    src="https://github.com/user-attachments/assets/54cc1c85-f1ff-4ef2-b9de-35850af7647d"
     alt="App Preview"
     width="700"
   />
