@@ -6,6 +6,16 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/4851adec-2114-46c0-b548-1b5675fa023d"
+    alt="App Preview"
+    width="700"
+  />
+</p>
+
+---
+
 ## 🚀 Overview
 A sleek, emotionally intelligent AI girlfriend web app concept , built with Next.js, React, Tailwind, and Supabase. Designed for modern users who value connection, conversation, and premium user experience.
 
@@ -41,8 +51,6 @@ A sleek, emotionally intelligent AI girlfriend web app concept , built with Next
 
 ---
 
-
----
 
 ## 💼 Work With Me
 Looking to **design or build a modern AI-powered website or app**?  
